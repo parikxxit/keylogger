@@ -2,8 +2,10 @@
 #include <windows.h>
 
 // custom headers
-//#include <KeyConstants.h>
-
+#include "KeyConstants.h"
+#include "helper.h"
+#include "base64.h"
+#include "IO.h"
 using namespace std;
 
 

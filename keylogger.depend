@@ -1,5 +1,31 @@
 # depslib dependency file v1.0
-1523459311 source:c:\users\parikshit\desktop\keylogger\main.cpp
+1524376382 source:c:\users\parikshit\desktop\keylogger\main.cpp
 	<iostream>
 	<windows.h>
+	"KeyConstants.h"
+	"helper.h"
+	"base64.h"
+	"IO.h"
+
+1524374510 c:\users\parikshit\desktop\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1524376158 c:\users\parikshit\desktop\keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1523473934 c:\users\parikshit\desktop\keylogger\base64.h
+	<vector>
+	<string>
+
+1524379002 c:\users\parikshit\desktop\keylogger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"helper.h"
+	"base64.h"
 
