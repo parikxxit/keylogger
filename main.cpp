@@ -6,6 +6,9 @@
 #include "helper.h"
 #include "base64.h"
 #include "IO.h"
+#include "time.h"
+#include "KeybHook.h"
+#include "SendMail.h"
 using namespace std;
 
 

