@@ -1,0 +1,15 @@
+[24.04.2018 15:29::3]
+Hook started... Timer started
+
+[24.04.2018 15:31::3]
+File creation was not succesfull. Keylog '[Enter]
+[Enter]
+[Left Alt][Tab][/Left Alt][Left Alt][Tab][/Left Alt][Left Alt][/Left Alt][Left Win][/Left Win][Left Win][/Left Win][Arrow Left][Arrow Left][Arrow Left][Arrow Left][Arrow Left][Arrow Left][Arrow Left][Arrow Left][Backspace][Arrow Down][Right Shift][/Right Shift][Enter]
+[Arrow Down][Arrow Down][Arrow Down][Arrow Up][Arrow Up][Arrow Up][Enter]
+[Arrow Down][Arrow Down][Backspace][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Up][Arrow Up][Arrow Up][Enter]
+[Backspace][Arrow Down][Arrow Down][Arrow Down][Arrow Up][Arrow Up][Enter]
+[Arrow Up][Left Win][/Left Win][N][O][T][Enter]
+[P][A][R][I][K][S][H][I][T][Space][S][I][B][F][G][Backspace][Backspace][Backspace][N][G][H][Space][Backspace][Left Ctrl][S][/Left Ctrl][Left Alt][Tab][/Left Alt][Left Alt][Tab][/Left Alt][Left Win][D][/Left Win][Left Win][/Left Win][G][M][A][Backspace][Backspace][Backspace][Backspace][C][H][E][Backspace][R][Enter]
+[G][M][A][Enter]
+[Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][Left Win][/Left Win][Left Win][/Left Win]'
+

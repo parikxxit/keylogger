@@ -33,7 +33,7 @@ namespace IO
     /*
         solved just making another function that will cope up with the flaws of other function
     */
-    bool MKDir(std::string path)
+    bool MkDir(std::string path)
     {
         for(char &c : path) //c will take path and store it in a character
         {

